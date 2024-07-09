@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hi, I'm Tanjina Proma, a passionate Machine Learning Engineer. I am enhancing my knowledge with the latest development in the field of Machine Learning and Data Science. I have worked for more than four years, and I have a record of successfully implementing Computer Vision and Image Processing based pipelines with practical expertise using ML-Ops, deep learning & machine learning. I am interested in enabling machine to understand sequence of information and act accordingly to make significant progress towards true artificial intelligence.
+Hi, I'm Tanjina Proma, a passionate Machine Learning Engineer. I am enhancing my knowledge with the latest development in the field of Machine Learning and Data Science. I have worked for more than four years, and I have a record of successfully implementing Computer Vision and Image Processing based pipelines with practical expertise using MLOps, deep learning & machine learning. I am interested in enabling machine to understand sequence of information and act accordingly to make significant progress towards true artificial intelligence.
 
 
 
